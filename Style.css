@@ -1,5 +1,5 @@
 body {
-    background:linear-gradient(45deg, purple,green);
+    background: url("Fundo3.jpg");
 }
 
 caption {
@@ -11,6 +11,12 @@ caption {
     text-transform: uppercase;
     background:url("Fundo2.jpg");
     padding: 25px;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+    padding: auto;
 }
 
 td, th, tr {
