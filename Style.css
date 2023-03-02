@@ -1,0 +1,35 @@
+body {
+    background:linear-gradient(45deg, purple,green);
+}
+
+caption {
+    font-style: oblique;
+    font-weight: bold;
+    font-size:x-large;
+    font-family:  sans-serif;
+    color: rgb(184, 184, 230);
+    text-transform: uppercase;
+    background:url("Fundo2.jpg");
+    padding: 25px;
+}
+
+td, th, tr {
+    padding: 20px;
+    font-size: 20px;
+    border: 3px solid #fefffe;
+    text-align: center;
+    color: rgb(123, 123, 252);
+    border: 3px solid;
+    background:url("Fundo.avif");
+    table-layout: fixed;
+    padding-top: 5%;
+    padding-right: 5%px;
+    padding-bottom: 45px;
+    padding-left: 1.50em;
+
+}
+
+img {
+    width: auto;
+    height: 100px;
+}
